@@ -1,0 +1,3 @@
+pip install uvicorn pytube pydub ffmpeg-python fastapi python-multipart 
+pip install fastapi[all]
+pip install yt-dlp
